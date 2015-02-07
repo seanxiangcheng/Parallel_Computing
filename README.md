@@ -1,2 +1,2 @@
-# Parallel_Computing
-Open MPI, Open MP, High Performance Computing
+## Parallel_Computing
+### Open MPI, Open MP, High Performance Computing
